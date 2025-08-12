@@ -35,6 +35,9 @@ The solution covers the full BI workflow — **data import, cleaning, transforma
    - Yearly summaries  
 
 ---
+
+<img width="762" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4940850-1dac-4ddf-a901-b7ae9b800dbe" />
+
 ## 1. Dataset Summary
 - **Total transactions:** `1,000`
 - **Total transaction value:** `$771,165.29`
