@@ -4,6 +4,8 @@
 This project delivers an interactive **Power BI dashboard** analyzing bank transactions to uncover trends, transaction patterns, and account behaviors.  
 The solution covers the full BI workflow — **data import, cleaning, transformation (Power Query M code), and dashboard creation**.
 
+<img width="762" height="427" alt="Image" src="https://github.com/user-attachments/assets/966bea20-4688-400a-aa6a-42f5321e2852" />
+
 ---
 
 ## 🛠 Tools & Technologies
